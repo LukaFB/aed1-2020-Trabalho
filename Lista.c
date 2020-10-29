@@ -4,6 +4,8 @@
 
 struct elemento {
 	int elemento;
+	int profissao; // 0 = professor, 1 = aluno.
+	char nome[20]; // nome da pessoa
 	struct elemento * proximo;
 };
 struct lista {
