@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "Lista.h"
 
 /* IMPLEMENTACAO 2 */
 struct elemento {
