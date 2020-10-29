@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-/* IMPLEMENTACAO 2 */
+
 struct elemento {
 	int elemento;
 	struct elemento * proximo;
